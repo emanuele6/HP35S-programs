@@ -1,0 +1,5 @@
+INPUTs:  A,B,C
+OUTPUTS: X,Y,D
+
+X,Y = zerosOf(A * t ^ 2 + B * t + C, t)
+D = B ^ 2 + 4 * A * C
