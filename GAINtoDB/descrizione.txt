@@ -1,0 +1,4 @@
+INPUTs: B
+OUTPUTs: D
+
+D = 20 * Log(B)
