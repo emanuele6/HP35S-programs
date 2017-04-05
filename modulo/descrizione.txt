@@ -1,0 +1,4 @@
+INPUTs:  A, B
+OUTPUTs: A
+
+A = A mod B
